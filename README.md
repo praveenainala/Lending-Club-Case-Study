@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+Case study to understand how consumer attributes and loan attributes influence the tendency of default.
 
 
 ## Table of Contents
