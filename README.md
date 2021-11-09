@@ -36,11 +36,17 @@ Case study to understand how consumer attributes and loan attributes influence t
 ## Technologies Used
 
 Python - version 3.8.8
+
 Jupyter Notebook - version 6.3.0
+
 Numpy - version 1.20.1
+
 Pandas - version 1.2.4
+
 Matplotlib - version 3.3.4
+
 Seaborn - version 0.11.1
+
 Plotly - version 5.3.1
 
 
