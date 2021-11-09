@@ -14,6 +14,7 @@ Case study to understand how consumer attributes and loan attributes influence t
 •	A Consumer Finance Company which specializes in lending various types of loans to urban customers. When the company receives a loan application, the company makes decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
    o	If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+   
    o	If the applicant is not likely to repay the loan, i.e., applicant is likely to default, then approving the loan may lead to a financial loss for the company
    
 •	 the company wants to understand the driving factors (or driver variables) behind loan default, i.e., the variables which are strong indicators of default. The company can utilize this knowledge for its portfolio and risk assessment. 
