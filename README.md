@@ -11,10 +11,15 @@ Case study to understand how consumer attributes and loan attributes influence t
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+
+•	A Consumer Finance Company which specializes in lending various types of loans to urban customers. When the company receives a loan application, the company makes decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+
+  o	If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+  o	If the applicant is not likely to repay the loan, i.e., applicant is likely to default, then approving the loan may lead to a financial loss for the company
+•	 the company wants to understand the driving factors (or driver variables) behind loan default, i.e., the variables which are strong indicators of default. The company can utilize this knowledge for its portfolio and risk assessment. 
+
+•	Dataset used in this project is the loan data which includes around 40k loans issued during the period of 2007 to 2011.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,9 +33,13 @@ Case study to understand how consumer attributes and loan attributes influence t
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python - version 3.8.8
+Jupyter Notebook - version 6.3.0
+Numpy - version 1.20.1
+Pandas - version 1.2.4
+Matplotlib - version 3.3.4
+Seaborn - version 0.11.1
+Plotly - version 5.3.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
