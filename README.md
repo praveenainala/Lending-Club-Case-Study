@@ -44,6 +44,6 @@ Plotly - version 5.3.1
 
 
 ## Contact
-Created by @praveeninala - feel free to contact me!
+Created by @praveenainala - feel free to contact me!
 
 
