@@ -26,18 +26,30 @@ Case study to understand how consumer attributes and loan attributes influence t
 
 ## Conclusions
 
-•	36 Month Loan term Loans getting Charged-off more compared to 60 Months Loans /n
+•	36 Month Loan term Loans getting Charged-off more compared to 60 Months Loans 
+
 •	Nearly 70% of Charged off Loans are from Grade B, C and D
+
 •	Loans authorized towards end of year are getting charged-off more
+
 •	More loans are getting charged-off from the states – CA and FL
+
 •	40% of the changed-off loans are from the users with less than 40,000 Annual salary
+
 •	50% of the changed-off loans are from the user’s home ownership is Rent
+
 •	More change-off are observed in Loans sanctioned with high interest rate
+
 •	50% of Charged-off Loans are issued to debt consolidation purpose 
+
 •	More Loans are authorized for users staying rent home and from users in CA state
+
 •	In NE state, 60% Loans are getting changed-off (Out of total Authorized) but total Loans Authorized in NE state are only 5
+
 •	SD, AK, and NV states are having ~20% of Charge-offs (Out of total Authorized).
+
 •	Users with history of Public Bankruptcies getting charged-off more
+
 •	Charge-off loans are increasing year over year
 
 
