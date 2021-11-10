@@ -26,7 +26,7 @@ Case study to understand how consumer attributes and loan attributes influence t
 
 ## Conclusions
 
-•	36 Month Loan term Loans getting Charged-off more compared to 60 Months Loans
+•	36 Month Loan term Loans getting Charged-off more compared to 60 Months Loans /n
 •	Nearly 70% of Charged off Loans are from Grade B, C and D
 •	Loans authorized towards end of year are getting charged-off more
 •	More loans are getting charged-off from the states – CA and FL
